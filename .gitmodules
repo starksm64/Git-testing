@@ -1,0 +1,6 @@
+[submodule "quickstart2"]
+	path = quickstart2
+	url = git@github.com:starksm64/quickstart2.git
+[submodule "quickstart1"]
+	path = quickstart1
+	url = git@github.com:starksm64/quickstart1.git
